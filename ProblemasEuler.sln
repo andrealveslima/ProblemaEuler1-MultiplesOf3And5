@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaEuler1-MultiplesOf3And5", "ProblemaEuler1-MultiplesOf3And5\ProblemaEuler1-MultiplesOf3And5.csproj", "{2E4C2AD2-97E1-4B0E-B355-A514E72927B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaEuler2-EvenFibonacciNumbers", "ProblemaEuler2-EvenFibonacciNumbers\ProblemaEuler2-EvenFibonacciNumbers.csproj", "{A2A69BD4-B71F-4875-ACC4-096C9AECF15D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2E4C2AD2-97E1-4B0E-B355-A514E72927B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4C2AD2-97E1-4B0E-B355-A514E72927B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4C2AD2-97E1-4B0E-B355-A514E72927B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A69BD4-B71F-4875-ACC4-096C9AECF15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A69BD4-B71F-4875-ACC4-096C9AECF15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A69BD4-B71F-4875-ACC4-096C9AECF15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A69BD4-B71F-4875-ACC4-096C9AECF15D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
